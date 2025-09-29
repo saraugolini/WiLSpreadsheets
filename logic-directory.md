@@ -175,6 +175,7 @@ Terzian | Giulia | University of Bristol (UK) | Teaching fellow | http://www.bri
 Thalos | Mariam | Utah (USA) | Professor | http://www.thalos.web.utah.edu | Philosophy of logic, philosophy of science, philosophy of physics, Philosophy of decision, Philosophy of mathematics
 Turhan | Anni-Yasmin | TU Dresden (Germany) | Senior researcher |  | knowledge represenation & reasoning, Description logics, ontology engineering, temporal reasoning, vagueness
 Uckelman | Sara L. | Durham University | Professor | http://community.dur.ac.uk/s.l.uckelman |  modal, dynamic, and temporal logic, history of logic, medieval logic, women in logic, philosophy of math
+Ugolini | Sara | Artificial Intelligence Research Institute IIIA-CSIC | Postdoctoral Researcher | https://ugolinisara.wordpress.com | Algebraic logic, foundations of reasoning under uncertainty
 van der Schaar | Maria | University of Leiden | assistant professor | http://www.hum.leidenuniv.nl/filosofie/organisatie/staf/schaar.html | philosophy of logic, history of logic, theory of judgement, constructive type theory, origins of analytic philosophy
 van Wierst | Pauline | Scuola Normale Superiore (Italy) | PhD Candidate | | Philosophy of Logic, Philosophy of Mathematics, Ideals of mathematical proof (grounding), Bolzano's logic
 VanDieren | Monica | NVIDIA (USA) | Sr Technical Marketing Engineer | [[https://vandieren.github.io/](https://www.linkedin.com/in/monica-vandieren/) | quantum computing, model theory, non-elementary classes, set theory
